@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 import Button from '../Buttons/Buttons'
 //Assets
 import Logo from '../../assets/dnc-logo.svg'
-import './header.css'
+import './Header.css'
 function Header(){
     const [isOpen, setIsOpen] = useState(false);
     const toggleMenu = () => {
