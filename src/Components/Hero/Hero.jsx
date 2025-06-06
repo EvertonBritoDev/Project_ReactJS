@@ -14,7 +14,7 @@ function Hero(){
                     There are many variations of the passages of
                     lorem Ipsum fromavailable, majority.                    
                 </p>
-                <Link>
+                <Link to="/about">
                     <Button buttonStyle="secondary" arrow>
                         Get Started
                     </Button>
