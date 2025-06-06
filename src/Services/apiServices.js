@@ -14,3 +14,4 @@ export const getApiData = async (endpoint, params) => {
         
     }        
 }
+
